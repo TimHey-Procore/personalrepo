@@ -18,13 +18,14 @@ I created this personal README to help you get to know me and how I work. This d
 - My timezone is [EST](https://time.is/ET)
 - My working hours are 9am to 5:30pm with a 1/2-hour lunch break at 12pm.
 - I block out 2-3 hours each day (in the morning) for [deep work](https://www.calnewport.com/books/deep-work/).
+- I like to focus deeply on the task at hand, so I turn off notifications for email and Slack. Please expect my responses on email and Slack to be asynchronous. Your messages are important to me and I will respond as soon as I can.
 
 ## My typical week
 
 - I use Monday's to advance deliverables, catch up with the team and address any blockers that may have popped up.
 - I have most of my meetings Tuesday - Thursday and like to keep Fridays meetings-free.
 - Each Friday I prepare a plan for the next week.
-- I like to focus deeply on the task at hand, so I turn off notifications for email and Slack. Please expect my responses on email and Slack to be asynchronous. Your messages are important to me and I will respond as soon as I can.
+
 
 ## My typical day
 
