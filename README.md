@@ -1,11 +1,6 @@
 # Tim Hey's — README.md
 
-I created this personal README to help you get to know me and how I work. This document is inspired by remote teams around the world like zapier, buffer and gitlab.
-
-- [GitLab Profile](https://gitlab.com/timhey)
-- [Team Page](https://about.gitlab.com/company/team/#timhey)
-- [Current OKRs](https://gitlab.com/timhey/focus/blob/master/OKRs/current.md)
-- [Current Tasks](https://gitlab.com/timhey/focus/blob/master/Tasks/Current.md)
+I created this personal README to help you get to know me and how I work. This document is inspired by remote teams around the world like [zapier](zapier.com), [buffer](buffer.com) and [gitlab](gitlab.com).
 
 ## About me
 
