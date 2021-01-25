@@ -30,6 +30,7 @@ I created this personal README to help you get to know me and how I work. This d
 - I use Monday's to advance deliverables, catch up with the team and address any blockers that may have popped up.
 - I have most of my meetings Tuesday - Thursday and like to keep Fridays meetings-free.
 - Each Friday I prepare a plan for the next week.
+- I like to focus deeply on the task at hand, so I turn off notifications for email and Slack. Please expect my responses on email and Slack to be asynchronous. Your messages are important to me and I will respond as soon as I can.
 
 ## My typical day
 
@@ -46,7 +47,6 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## How to reach me
 
-- **Slack**: Direct message or mention is probably the best way to reach me during the day (my handle is @tim_hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels (we have so many channles) so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link to the issue you need me to contribute to.
-- <b>[E-mail](mailto:they@gitlab.com)</b>: I read my emails twice a day and work through them like a task list. If you have an urgent email please use [URGENT]: in your subject line so I see it. Please do not feel obligated to read or respond to any of the emails you receive from me outside of your normal hours.
-- I like to focus deeply on the task at hand, so I turn off notifications for email and Slack. Please expect my responses on email and Slack to be asynchronous. Your messages are important to me and I will respond as soon as I can.
-- You can schedule a 30 min coffee chat with me via <b>[Calendly](https://calendly.com/timhey-gitlab)</b>.
+- **Slack**: Direct message or mention is probably the best way to reach me during the day (my handle is @tim.hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link or summary of the issue you need me to contribute to.
+- <b>[E-mail](mailto:tim.hey@procore.com)</b>: I read my emails twice a day and work through them like a task list. If you have an urgent email please use [URGENT]: in your subject line so I see it. Please do not feel obligated to read or respond to any of the emails you receive from me outside of your normal hours.
+- You can schedule a 30 min get to know you or coffee chat with you anytime - I really enjoy getting to people and love helping as much as I can. 
