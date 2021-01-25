@@ -9,13 +9,12 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## About me
 
-- My name is Tim Hey (last name jokes are welcome) I am a Principal Product Manager on the [Growth](https://about.gitlab.com/handbook/product/growth/) team at GitLab and I focus on [Expansion](https://about.gitlab.com/direction/expansion/).
-- I currently live in [New Boston, New Hampshire](https://www.google.com/maps/place/New+Boston,+NH+03070/@42.9777511,-71.7556169,12z/data=!3m1!4b1!4m5!3m4!1s0x89e233e8a9946e0d:0x590e6c13b1743f65!8m2!3d42.9761945!4d-71.6939626) 🇺🇸 with my wife Elizabeth, our 2 sons and our 2 dogs (they are rescues and we have no clue what breed they are).
-- I was raised in New Hampshire but lived on [Hilton Head Island](https://www.google.com/maps/place/Hilton+Head+Island,+SC/@32.1834696,-80.8174359,12z/data=!3m1!4b1!4m5!3m4!1s0x88fc79dc8ed319ad:0x2ce5a67aeba2283d!8m2!3d32.216316!4d-80.752608) for 8 years, this is where my wife and I started our life together and we plan to move back when the children are older.
+- My name is Tim Hey -- Currently, I am a Principal Product Manager on the Growth team at [Procore](procore.com). I'm focused on connecting everyone in the construction industry on one platform.
+- I currently live in [Hilton Head, SC](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&t=h&z=12&vpsrc=0&mid=1Qtqlbz0hl78M8NRbzRCdgw_NnP0&ll=32.16264174527876%2C-80.74548800000001) 🇺🇸 with my wife Elizabeth, our 2 sons and our 2 dogs. I was raised in New Hampshire and that's where the majority of my family lives. I'm up there quite a bit in the summer months. 
 - I’m an [introverted extrovert](https://en.wikipedia.org/wiki/Extraversion_and_introversion) which for me means that I enjoy spending time with others but I recharge in solitude. You will know which mode I’m in within seconds of interacting with me.
-- I studied business management and sustainable product design and development at Keene State College in New Hampshire and it just so happens that it’s exactly what I’ve built a career around.
-- I ride bikes 🚴‍♂️and recently fell in love with gravel. If I’m feeling fit I will compete in local gravel races, criteriums or cyclo-cross races. When I do compete I race for team [Mad Alchemy](https://www.madalchemy.com/). Feel free to follow me on [Strava](https://www.strava.com/athletes/2610245)
-- I’m a podcast junkie, some of my favorites are [TrainerRoad](https://www.trainerroad.com/podcast), [a16z](https://a16z.com/podcasts/), [Breakout Growth](https://www.seanellis.me/the-breakout-growth-podcast.html) and [Rich Roll](https://www.richroll.com/)
+- I studied business management and sustainable product design and development at Keene State College in New Hampshire and it just so happens that is exactly what I’ve built a career around.
+- I ride bikes 🚴‍♂️and recently fell in love with gravel. If I’m feeling fit I will compete in local crits, gravel or cyclo-cross races. When I do compete I race for team [Mad Alchemy](https://www.madalchemy.com/). Feel free to follow me on [Strava](https://www.strava.com/athletes/2610245) 
+- I’m a podcast junkie, some of my favorites are [a16z](https://a16z.com/podcasts/), [My First Million](https://thehustle.co/my-first-million-podcast/), [TrainerRoad](https://www.trainerroad.com/podcast), and [Rich Roll](https://www.richroll.com/)
 - I recently took the Clifton Strengths assessment If you are curious you can learn more [here](https://gitlab.com/gitlab-org/growth/product/issues/797)
 - Lastly, for more than a decade now I've lived a life in recovery and I'm very open about it, I won't lead with it but if you want to talk don't hesitate to reach out.
 
@@ -35,15 +34,14 @@ I created this personal README to help you get to know me and how I work. This d
 ## My typical day
 
 - I get up at 6AM on most days (if my children don’t wake me up first).
-- I workout 4-5 times per week and try to do this between 7-8:30 AM.
+- I workout 4-5 times per week and try to do this between 7-8:30 AM but with 2 young kiddos I just grab what I can when I can 😉
 - I start working at 9AM and take my first break around 12PM.
-- I check my email in the morning around 9 and after lunch at 1pm.
-- I prefer to have meetings in the afternoon hours but will meet anytime during my normal working hours.
+- I check my email in the morning around 9, after lunch at 1pm and again at the end of the day. This helps me be more productive during the day when I'm doing work. 
+- I prefer to have meetings in the afternoon hours but will meet anytime during my normal working hours. 
 
 ## What’s keeping me busy
 
-- I have my own OKRs and try to keep a good mix of personal and work related objectives to keep me on track. Here are [my current OKRs](https://gitlab.com/timhey/focus/blob/master/OKRs/current.md).
-- I also create a weekly plan every friday, this helps end the week and hit the ground running after the weekend. To see what I'm currently working on check [my current tasks](https://gitlab.com/timhey/focus/blob/master/Tasks/Current.md).
+- I'm currently focused on the construction network project at Procore. Mainly standing up the first version of the web app and consumer facing pages. 
 
 ## How to reach me
 
