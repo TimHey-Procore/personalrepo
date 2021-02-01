@@ -41,6 +41,6 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## How to reach me
 
-- Slack:  Direct message or mention is probably the best way to reach me during the day (my handle is @tim.hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link or summary of the issue you need me to contribute to.
-- <b>[E-mail](mailto:tim.hey@procore.com)</b>: I read my emails three times a day and work through them like a task list. If you have an urgent email please use [URGENT]: in your subject line so I see it. Please do not feel obligated to read or respond to any of the emails you receive from me outside of your normal hours.
-- Meetings: You can schedule a 30 min "get to know ya" or "coffee chat" with you anytime - I really enjoy getting to know people and love helping as much as I can. 
+- Slack - Direct message or mention is probably the best way to reach me during the day (my handle is @tim.hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link or summary of the issue you need me to contribute to.
+- <b>[E-mail](mailto:tim.hey@procore.com)</b> - I read my emails three times a day and work through them like a task list. If you have an urgent email please use [URGENT]: in your subject line so I see it. Please do not feel obligated to read or respond to any of the emails you receive from me outside of your normal hours.
+- Meetings - You can schedule a 30 min "get to know ya" or "coffee chat" with you anytime - I really enjoy getting to know people and love helping as much as I can. 
