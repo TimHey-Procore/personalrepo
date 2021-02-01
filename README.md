@@ -11,20 +11,20 @@ I created this personal README to help you get to know me and how I work. This d
 - I ride bikes 🚴‍♂️ and recently fell in love with gravel. If I’m feeling fit I will compete in local crits, gravel or cyclo-cross races. When I do compete I race for team [Mad Alchemy](https://www.madalchemy.com/). Feel free to follow me on [Strava](https://www.strava.com/athletes/2610245) 
 - I’m a podcast junkie, some of my favorites are [a16z](https://a16z.com/podcasts/), [My First Million](https://thehustle.co/my-first-million-podcast/), [All In](https://www.allinpodcast.co), [TrainerRoad](https://www.trainerroad.com/podcast), and [Rich Roll](https://www.richroll.com/)
 - I recently took the Clifton Strengths assessment If you are curious you can learn more [here](https://gitlab.com/gitlab-org/growth/product/issues/797)
-- Lastly, for more than a decade now I've lived a sober life and I'm very open about it, I won't lead with it but if you want to talk don't hesitate to reach out.
+- Lastly, for more than a decade now I've lived a sober life and I'm very open about it, I won't lead with it but if you want to talk don't hesitate to reach out. 📣
 
 ## How I work
 
 - My timezone is [EST](https://time.is/ET)
 - My working hours are 9am to 5:30pm with a 1/2-hour lunch break at 12pm.
-- I block out 2-3 hours each day (in the morning) for [deep work](https://www.calnewport.com/books/deep-work/).
+- I block out 2-3 hours each day (in the morning) for [deep work](https://www.calnewport.com/books/deep-work/) 🎧
 - I like to focus deeply on the task at hand, so I turn off notifications for email and Slack. Please expect my responses on email and Slack to be asynchronous. Your messages are important to me and I will respond as soon as I can.
 
 ## My typical week
 
-- I use Monday's to advance deliverables, catch up with the team and address any blockers that may have popped up.
+- I use Monday's to advance deliverables, catch up with the team and address any blockers that may have popped up. 
 - I have most of my meetings Tuesday - Thursday and like to keep Fridays meetings-free.
-- Each Friday I prepare a plan for the next week.
+- Each Friday I prepare a plan for the next week. ✍️
 
 
 ## My typical day
