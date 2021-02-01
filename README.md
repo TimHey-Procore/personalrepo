@@ -8,10 +8,10 @@ I created this personal README to help you get to know me and how I work. This d
 - I currently live in [Hilton Head, SC](https://www.google.com/maps/d/viewer?ie=UTF8&hl=en&msa=0&t=h&z=12&vpsrc=0&mid=1Qtqlbz0hl78M8NRbzRCdgw_NnP0&ll=32.16264174527876%2C-80.74548800000001) 🇺🇸 with my wife Elizabeth, our 2 sons and our 2 dogs. I was raised in New Hampshire and that's where the majority of my family lives. I'm up there quite a bit in the summer months. 
 - I’m an [introverted extrovert](https://en.wikipedia.org/wiki/Extraversion_and_introversion) which for me means that I enjoy spending time with others but I recharge in solitude. You will know which mode I’m in within seconds of interacting with me.
 - I studied business management and sustainable product design and development at Keene State College in New Hampshire and it just so happens that is exactly what I’ve built a career around.
-- I ride bikes 🚴‍♂️ and recently fell in love with gravel. If I’m feeling fit I will compete in local crits, gravel or cyclo-cross races. When I do compete I race for team [Mad Alchemy](https://www.madalchemy.com/). Feel free to follow me on [Strava](https://www.strava.com/athletes/2610245) 
-- I’m a podcast junkie, some of my favorites are [a16z](https://a16z.com/podcasts/), [My First Million](https://thehustle.co/my-first-million-podcast/), [All In](https://www.allinpodcast.co), [TrainerRoad](https://www.trainerroad.com/podcast), and [Rich Roll](https://www.richroll.com/)
-- I recently took the Clifton Strengths assessment If you are curious you can learn more [here](https://gitlab.com/gitlab-org/growth/product/issues/797)
-- Lastly, for more than a decade now I've lived a sober life and I'm very open about it, I won't lead with it but if you want to talk don't hesitate to reach out. 📣
+- I ride bikes 🚴‍♂️ and recently fell in love with gravel. If I’m feeling fit I will compete in local crits, gravel or cyclo-cross races. When I do compete I race for team [Mad Alchemy](https://www.madalchemy.com/). Feel free to follow me on [Strava](https://www.strava.com/athletes/2610245).
+- I’m a podcast junkie, some of my favorites are [a16z](https://a16z.com/podcasts/), [My First Million](https://thehustle.co/my-first-million-podcast/), [All In](https://www.allinpodcast.co), [TrainerRoad](https://www.trainerroad.com/podcast), and [Rich Roll](https://www.richroll.com/).
+- I recently took the Clifton Strengths assessment If you are curious you can learn more [here](https://gitlab.com/gitlab-org/growth/product/issues/797).
+- Lastly, for more than a decade now I've lived a sober life and I'm very open about it, I won't lead with it but if you want to talk don't hesitate to reach out 📣
 
 ## How I work
 
@@ -24,7 +24,7 @@ I created this personal README to help you get to know me and how I work. This d
 
 - I use Monday's to advance deliverables, catch up with the team and address any blockers that may have popped up. 
 - I have most of my meetings Tuesday - Thursday and like to keep Fridays meetings-free.
-- Each Friday I prepare a plan for the next week. ✍️
+- Each Friday I prepare a plan for the next week ✍️
 
 
 ## My typical day
@@ -41,6 +41,6 @@ I created this personal README to help you get to know me and how I work. This d
 
 ## How to reach me
 
-- **Slack**: Direct message or mention is probably the best way to reach me during the day (my handle is @tim.hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link or summary of the issue you need me to contribute to.
+- Slack:  Direct message or mention is probably the best way to reach me during the day (my handle is @tim.hey). I will always have Slack open during business hours but I have notifications disabled on many of the channels so it may take some time before I respond. If you have an urgent message or need me to repond quickly the best approach is a direct message with a link or summary of the issue you need me to contribute to.
 - <b>[E-mail](mailto:tim.hey@procore.com)</b>: I read my emails three times a day and work through them like a task list. If you have an urgent email please use [URGENT]: in your subject line so I see it. Please do not feel obligated to read or respond to any of the emails you receive from me outside of your normal hours.
-- You can schedule a 30 min get to know you or coffee chat with you anytime - I really enjoy getting to know people and love helping as much as I can. 
+- Meetings: You can schedule a 30 min "get to know ya" or "coffee chat" with you anytime - I really enjoy getting to know people and love helping as much as I can. 
